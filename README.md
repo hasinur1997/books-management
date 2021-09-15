@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fun project for practice reat, react hook, react custom hook, localstorage, react-router. 
 
 ## Available Scripts
 
